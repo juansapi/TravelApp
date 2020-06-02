@@ -1,6 +1,9 @@
-# platzi_trips_app
+# TravelApp
 
-A new Flutter application.
+Universidad Santiago de Cali
+Arquitectura de Sistemas de Información
+Proyecto Final
+Johan Sebastián Diaz - Juan David Sarmiento
 
 ## Getting Started
 
